@@ -7,7 +7,7 @@ const unternehmen = require('./router/unternehmen');
 const karriere = require('./router/karriere');
 const dienstleistungen = require('./router/dienstleistungen');
 
-const port = 3200;
+const port = 3000;
 
 const app = express();
 
